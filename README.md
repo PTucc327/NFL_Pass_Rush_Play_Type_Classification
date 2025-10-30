@@ -1,4 +1,4 @@
-# NFL_Play_Type_Classification
+# NFL_Pass_Rush_Play_Type_Classification
 
 Author: Paul Tuccinardi
 
