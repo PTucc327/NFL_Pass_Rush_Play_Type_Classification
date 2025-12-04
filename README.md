@@ -8,7 +8,7 @@ Email: <paultuccinardi@gmail.com>
 - [Presentation](https://docs.google.com/presentation/d/1XdqbENslfI0Xlb9LvI7pxhbnrJYTUn9IyHMeEUtnppA/edit?usp=sharing)
 - [Mid_Semester_Slides](https://docs.google.com/presentation/d/1Bf9rF0JXRG_AY0W--8b1qA4n3lWFdR-tNSC4mPW1zOc/edit?usp=sharing)
 - [Mid_Semester_Video](https://drive.google.com/file/d/13IJOqT-aCOZuQOR-Z4o1ghhv2u1iNZZ5/view?usp=sharing)
-<<<<<<< HEAD
+
 ## Project Details
 - **Abstract**: This project aimed to develop an accurate classification model to detect what plays would be called during NFL games using pre-play information. Data came from nfl_data_py api which collects play-by-play information.  Logistic Regression, Random Forest and XGBoost models were tested against each other as well as using current 2025 NFL data to validate performance.
 
