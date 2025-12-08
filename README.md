@@ -21,6 +21,7 @@ Performed EDA to explore the various features and extract insights as shown belo
 To test my model, a method was created to pull the model and test on sample data. While this did prove to provide an answer of pass or rush, it did not show its effectiveness. My other method involved pulling 2025 data and running that through the XGBoost model and visualizing the performance as shown below. Majority of the 2025 data was able to be correctly classified showing the models effectiveness and ability to generalize well.
 
 - **Limitations**:
+This project does not include player specific information. The data also does not include any coaching information, record/standings, weather conditions, and audio at the stadium. All of these factors may also play a role in predicting what plays will happen during a game. Data is also from only 2 seasons and could be expanded to include more seasons and get a better understanding of how the teams play.
 
 ## Final Poster
 ![FinalPoster](PaulTuccinardiFinalPoster.png)
