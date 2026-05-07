@@ -25,9 +25,14 @@ Email: <paultuccinardi@gmail.com>
 - **Methodology**:
 Performed EDA to explore the various features and extract insights as shown below. Then performed feature engineering to clean and format data fields for modeling. Used Logistic Regression model to serve as a baseline model. Random Forest model was used to deal with non-linear features. Lastly, used XGBoost model to deal with non-linear features and add regularization to deal with overfitting.
 
+<<<<<<< HEAD
 
 - **Evaluation**: Accuracy, precision, recall, and F1-score were used alongside confusion matrix analysis. XGBoost achieved the best performance across all metrics. Random Forest and Logistic Regression performed similarly to each other but fell short of XGBoost.
 
+=======
+- **Evaluation**:
+To evaluate model performance, performance metrics such as accuracy precision, recall, and f-1 score were used in addition to confusion matrix. After looking at the metrics, XGBoost model had the best metrics and the best confusion matrix, Random Forest and Logistic Regression models both had similar performances and were close in comparison to the XGBoost. 
+>>>>>>> bfd8d0abf4c2b1143051999299fb82e3a0ce821c
 
 - **Results**:
 To test my model, a method was created to pull the model and test on sample data. While this did prove to provide an answer of pass or rush, it did not show its effectiveness. My other method involved pulling 2025 data and running that through the XGBoost model and visualizing the performance as shown below. Majority of the 2025 data was able to be correctly classified showing the models effectiveness and ability to generalize well. 
